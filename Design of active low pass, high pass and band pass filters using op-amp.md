@@ -34,15 +34,27 @@ its quality factor Q <10.  If Q>10, then we call the filter a narrow band pass f
 pass filter can be formed by simply cascading high-pass and low-pass sections.  The order of 
 band pass filter depends on the order of high pass and low pass sections.
 
-## CIRCUIT DIAGRAM: 
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
 
-## MODEL GRAPH:
+## CIRCUIT DIAGRAM:
 ## LOW_PASS
+<img width="1080" height="689" alt="image" src="https://github.com/user-attachments/assets/f4583556-32af-4052-808b-8ef0649c2575" />
+
 ## HIGH-PASS
+<img width="1080" height="772" alt="image" src="https://github.com/user-attachments/assets/312e3e02-8f93-4390-bc21-08445696860f" />
+
 ## BAND-PASS
+<img width="1080" height="689" alt="image" src="https://github.com/user-attachments/assets/2cdbac52-746e-47f8-91ed-a9b8be7e31bb" />
+
+## MODEL GRAPH: 
+## LOW_PASS
+<img width="1080" height="821" alt="image" src="https://github.com/user-attachments/assets/e6bd0a1b-2b21-4881-b0cc-3f3dc48e9996" />
+
+## HIGH-PASS
+<img width="1080" height="724" alt="image" src="https://github.com/user-attachments/assets/f65a307a-385b-429b-811f-e27df39b5dbf" />
+
+## BAND-PASS
+<img width="1280" height="1263" alt="image" src="https://github.com/user-attachments/assets/75aa97ed-fd98-492e-a3b2-05a0820e93ce" />
+
 
 ## PROCEDURE - (LPF & HPF): 
 1. Connect the circuit as shown in the circuit diagram. 
@@ -85,19 +97,27 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+<img width="1280" height="1087" alt="image" src="https://github.com/user-attachments/assets/ea54d63b-c89a-4c5c-8eee-dbaf01fe203f" />
+
 ## HIGH-PASS
+<img width="1280" height="1073" alt="image" src="https://github.com/user-attachments/assets/fe09ffb6-ea38-4a48-88c1-7a49e5c0bf1d" />
+
 ## BAND-PASS
+*ASD-<img width="1080" height="1215" alt="image" src="https://github.com/user-attachments/assets/70af58d7-d871-4caa-83d4-1c0efe4e3e58" />
+
 ## CALCULATIONS:
 ## LOW_PASS
 ## HIGH-PASS
 ## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+
 ## GRAPH:
 ## LOW_PASS
 ## HIGH-PASS
+<img width="920" height="1280" alt="image" src="https://github.com/user-attachments/assets/b33205e1-6338-454e-a9f9-e9c811ae9afb" />
+
 ## BAND-PASS
+<img width="732" height="1280" alt="image" src="https://github.com/user-attachments/assets/1ef7b8fe-76e0-46f3-b455-6a8d9c610d4c" />
+
  ## RESULTS:
 Thus an Active Low pass, High pass and Band Pass Filters are designed and 
 tested using op-amp IC 741. 
