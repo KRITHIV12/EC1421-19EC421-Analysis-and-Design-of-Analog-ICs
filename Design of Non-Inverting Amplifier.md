@@ -35,7 +35,11 @@ ACL = 1 + ( RF / R1)
 
 ## TABULATION:
 
+<img width="1080" height="664" alt="image" src="https://github.com/user-attachments/assets/4796bb07-83f5-48a1-ab3e-8f409b7c80f3" />
+
 ## CALCULATIONS:
+
+<img width="547" height="283" alt="image" src="https://github.com/user-attachments/assets/90625121-bd24-4108-ac14-fb4a98ccc500" />
 
 ## GRAPH:
 <img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/3fd2d2f3-2197-42f2-b0e9-422d0a9d643b" />
