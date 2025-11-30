@@ -30,7 +30,6 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 ## TABULATION:
 <img width="1080" height="469" alt="image" src="https://github.com/user-attachments/assets/42f8f699-9feb-4184-92b1-4e0e0ba472b4" />
 
-## CALCULATIONS:
 
 ## GRAPH:
 <img width="1080" height="1111" alt="image" src="https://github.com/user-attachments/assets/cb0d9ba1-a5f8-4041-b82b-2d9b4f3722dd" />
