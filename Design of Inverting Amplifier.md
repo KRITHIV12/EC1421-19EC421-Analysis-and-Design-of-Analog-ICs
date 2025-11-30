@@ -53,7 +53,9 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 ## CALCULATIONS:
 
- 
+
+ <img width="432" height="278" alt="image" src="https://github.com/user-attachments/assets/ccdc5046-18dc-4b15-b7ec-b02d9287cad7" />
+
 
 ## GRAPH:
 <img width="1280" height="883" alt="image" src="https://github.com/user-attachments/assets/4f92a38f-6b99-458c-86da-33993199a86d" />
