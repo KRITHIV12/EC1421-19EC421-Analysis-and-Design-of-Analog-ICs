@@ -1,5 +1,5 @@
 ## EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
-## SIMULATION OF SCHMITT TRIGGER
+## Simulation of Digital to Analog Converters
 
 ## AIM:
 To Design and simulate the digital to analog converter (DAC) circuit using LT Spice
@@ -39,6 +39,9 @@ For v2 and v3  keeping the other values constant.
 
 ## OUTPUT GRAPH:
 ### DAC:
+
+<img width="1280" height="627" alt="image" src="https://github.com/user-attachments/assets/0e00ebe7-fa72-4711-97d6-283f0efb2035" />
+
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and digital to analog converter (DAC) circuit is simulated.
