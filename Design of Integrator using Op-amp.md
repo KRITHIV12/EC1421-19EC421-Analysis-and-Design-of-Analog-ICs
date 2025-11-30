@@ -61,6 +61,8 @@ are plotted in a graph sheet.
 
 ## TABULATION:
 
+<img width="1080" height="820" alt="image" src="https://github.com/user-attachments/assets/c0b957c1-ab2e-41ee-bc31-0edba40313bd" />
+
 
 ## GRAPH:
 <img width="872" height="1146" alt="image" src="https://github.com/user-attachments/assets/33f1f116-3e09-424d-8bb4-6dc58363177a" />
